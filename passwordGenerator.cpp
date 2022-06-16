@@ -17,7 +17,7 @@ int main()
 
         pass = pass + data[rand() % 93];
 
-        cout << pass << endl;
+        cout << pass;
 
 
     }
